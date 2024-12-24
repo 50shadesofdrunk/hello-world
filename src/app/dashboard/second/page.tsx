@@ -1,3 +1,3 @@
 export default function SecondDashboard() {
-    return <h1>Dashboard 2</h1>
+    return <h1>Dashboard 32</h1>
 }
